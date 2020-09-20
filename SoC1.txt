@@ -27,3 +27,7 @@ Alice - (aliceholden14) - Mic check 1 2
 Piper - (piperbates) - Meow. I wanna try building a communal website, who's in?
 
 Stefan - (stefankudev) - Communal website? Hmm... do tell!
+
+Aftab - https://miro.medium.com/max/910/1*snTXFElFuQLSFDnvZKJ6IA.png
+
+Aftab - Wondered why there was another SoC_suppository folder in here, he started to approach when suddenly Christopher Nolan appeared screaming "IIIInceptionnnn"
